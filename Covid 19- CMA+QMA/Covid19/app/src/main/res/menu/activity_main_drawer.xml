@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group
+        android:id="@+id/top_pane"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_quarantine"
+            android:icon="@drawable/ic_quarantine"
+            android:title="@string/title_quarantine"
+            android:visible="false" />
+        <item
+            android:id="@+id/nav_advisory"
+            android:icon="@drawable/ic_adversaries"
+            android:title="@string/title_adversory" />
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/title_home" />
+        <item
+            android:id="@+id/nav_status"
+            android:icon="@drawable/ic_status"
+            android:title="@string/title_status" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_profile"
+            android:title="@string/title_profile" />
+    </group>
+</menu>

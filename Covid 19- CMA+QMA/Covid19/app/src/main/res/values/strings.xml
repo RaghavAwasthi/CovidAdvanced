@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Covid-19</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_Advisory">Advisory</string>
+    <string name="title_adversory">Advisory</string>
+    <string name="title_home">Home</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_status">Status</string>
+    <string name="title_quarantine">Quarantine</string>
+    <string name="title_activity_heat_map">Map</string>
+    <string name="question_2">Question-2</string>
+    <string name="do_you_have_cough">Do you have Cough ?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="question_3">Question-3</string>
+    <string name="do_you_have_breathing_problem">Do you have breathing Problem ?</string>
+    <string name="submit">Submit</string>
+    <string name="enter_your_address">Enter your Address</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="click_your_picture">Click your Picture</string>
+    <string name="mark_your_location_on_the_map">Mark your Location on the Map</string>
+    <string name="next">Next</string>
+    <string name="temperature_u2109">Temperature ℉</string>
+    <string name="cough">Cough</string>
+    <string name="breathing_problem">Breathing Problem</string>
+    <string name="fever">Fever</string>
+    <string name="collected_on">Collected On</string>
+    <string name="live_cases">Live Cases</string>
+    <string name="view_more"><![CDATA[View More ->]]></string>
+    <string name="advisories">Advisories</string>
+    <string name="quarantine_mode_enabled_till">Quarantine mode Enabled till</string>
+    <string name="chat_support">Chat Support</string>
+    <string name="raise_alert">Raise Alert</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="address">Address</string>
+    <string name="assesment">Assesment</string>
+    <string name="you_are_safe">You are Safe</string>
+    <string name="take_assesment"><![CDATA[Take Assesment ->]]></string>
+    <string name="previous_assesments">Previous assesments</string>
+    <string name="total_cases">Total Cases</string>
+    <string name="total_death">Total Death</string>
+    <string name="total_recovered">Total Recovered</string>
+    <string name="quarantine_passcode">Quarantine PassCode</string>
+    <string name="enter_mo_id">Enter MO ID</string>
+    <string name="signup">SignUp</string>
+    <string name="login">Login</string>
+    <string-array name="units">
+        <item>Farenheit</item>
+        <item>Celsius</item>
+    </string-array>
+</resources>

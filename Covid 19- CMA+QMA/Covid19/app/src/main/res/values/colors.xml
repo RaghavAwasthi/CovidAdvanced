@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ED213A</color>
+    <color name="colorPrimaryDark">#93291E</color>
+    <color name="colorAccent">#ED213A</color>
+    <color name="colorPopup">#F2F2F2</color>
+    <color name="darkColorPrimary">#04bcf4</color>
+    <color name="darkColorPrimaryDark">#153f87</color>
+    <color name="darkColorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="grey">#bfbfbf</color>
+    <color name="selectionColor">#ff5862</color>
+    <color name="colorSub">#b0afaf</color>
+    <color name="colorTex">#585858</color>
+</resources>

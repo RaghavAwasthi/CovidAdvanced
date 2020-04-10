@@ -32,6 +32,10 @@ The attributes & advantages of CMA as follows :Also the users who are home quara
 - To contain the spread & monitor the effected, we wish to develop Reverse tracking system Application and also in the future ​
 - We will be adding home delivery of goods as per requirement by locals​
 
+## Flow Diagram
+![Workflow (9) (1)](https://user-images.githubusercontent.com/24982437/79012213-68f46200-7b83-11ea-84cb-8b1b3fffc6a3.jpg)
+
+
 ##  APP ScreenShots
 ![Screenshot_2020-04-10-01-43-04-81](https://user-images.githubusercontent.com/24982437/79010574-e1f1ba80-7b7f-11ea-9cc2-7a95535a10f3.png)
 ![Screenshot_2020-04-10-01-43-13-26](https://user-images.githubusercontent.com/24982437/79010577-e3bb7e00-7b7f-11ea-80c3-b5c72908a9e9.png)

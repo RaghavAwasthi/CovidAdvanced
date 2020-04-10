@@ -32,6 +32,8 @@ The attributes & advantages of CMA as follows :Also the users who are home quara
 - To contain the spread & monitor the effected, we wish to develop Reverse tracking system Application and also in the future ​
 - We will be adding home delivery of goods as per requirement by locals​
 
+## Link to Demo Video
+https://www.youtube.com/watch?v=yQaGCabiMDA&feature=youtu.be
 ## Link to Web App
 - http://covid-server.s3-website.ap-south-1.amazonaws.com/dashboard/advisory
 - Trial ID

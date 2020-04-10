@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Covid-19</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">હેલો કોરો ટુકડો</string>
+    <string name="title_Advisory">સલાહકાર</string>
+    <string name="title_adversory">વિરોધી</string>
+    <string name="title_home">ઘર</string>
+    <string name="title_profile">પ્રોફાઇલ</string>
+    <string name="title_status">સ્થિતિ</string>
+    <string name="title_quarantine">સંસર્ગનિષેધ</string>
+    <string name="title_activity_heat_map">નકશો</string>
+    <string name="question_2">પ્રશ્ન -2</string>
+    <string name="do_you_have_cough">શું તમને કફ છે?</string>
+    <string name="yes">હા</string>
+    <string name="no">ના</string>
+    <string name="question_3">પ્રશ્ન -3</string>
+    <string name="do_you_have_breathing_problem">શું તમને શ્વાસ લેવામાં સમસ્યા છે?</string>
+    <string name="submit">સબમિટ કરો</string>
+    <string name="enter_your_address">તમારું સરનામું દાખલ કરો</string>
+    <string name="enter_your_name">તમારું નામ દાખલ કરો</string>
+    <string name="click_your_picture">તમારા ચિત્રને ક્લિક કરો</string>
+    <string name="mark_your_location_on_the_map">નકશા પર તમારું સ્થાન ચિહ્નિત કરો</string>
+    <string name="next">આગળ</string>
+    <string name="temperature_u2109">તાપમાન ℉</string>
+    <string name="cough">ખાંસી</string>
+    <string name="breathing_problem">શ્વાસ લેવામાં સમસ્યા</string>
+    <string name="fever">તાવ</string>
+    <string name="collected_on">પર એકત્રિત</string>
+    <string name="live_cases">જીવંત કેસ</string>
+    <string name="view_more"><![CDATA[વધુ જુઓ->]]></string>
+    <string name="advisories">સલાહ</string>
+    <string name="quarantine_mode_enabled_till">સુધી ક્વોરેન્ટાઇન મોડ સક્ષમ</string>
+    <string name="chat_support">ચેટ સપોર્ટ</string>
+    <string name="raise_alert">ચેતવણી વધારો</string>
+    <string name="mobile_number">મોબાઇલ નંબર</string>
+    <string name="address">સરનામું</string>
+    <string name="assesment">આકારણી</string>
+    <string name="you_are_safe">તમે સલામત છો</string>
+    <string name="take_assesment"><![CDATA[આકારણી લો ->]]></string>
+    <string name="previous_assesments"> પાછલા આકારણીઓ</string>
+    <string name="total_cases">કુલ કેસ</string>
+    <string name="total_death">કુલ મૃત્યુ</string>
+    <string name="total_recovered">કુલ પુન .પ્રાપ્ત</string>
+    <string name="quarantine_passcode">ક્વોરેન્ટાઇન પાસકોડ</string>
+    <string name="enter_mo_id">MO ID દાખલ કરો</string>
+    <string name="signup">સાઇનઅપ</string>
+    <string name="login">પ્રવેશ કરો</string>
+    <string-array name="units">
+        <item>Farenheit</item>
+        <item>Celsius</item>
+    </string-array>
+</resources>

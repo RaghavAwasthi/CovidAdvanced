@@ -54,6 +54,15 @@ public class AssesmentActivity extends AppCompatActivity implements View.OnClick
         bodytemp = findViewById(R.id.body_temp);
         preferences = getSharedPreferences(Constants.APP_PREFERENCE_NAME, MODE_PRIVATE);
         editor = preferences.edit();
+        cough_yes.setBackgroundTintList(ContextCompat.getColorStateList(AssesmentActivity.this, R.color.white));
+        cough_yes.setTextColor(ContextCompat.getColorStateList(AssesmentActivity.this, R.color.black));
+        cough_no.setBackgroundTintList(ContextCompat.getColorStateList(AssesmentActivity.this, R.color.white));
+        cough_no.setTextColor(ContextCompat.getColorStateList(AssesmentActivity.this, R.color.black));
+        breathing_no.setBackgroundTintList(ContextCompat.getColorStateList(AssesmentActivity.this, R.color.white));
+        breathing_no.setTextColor(ContextCompat.getColorStateList(AssesmentActivity.this, R.color.black));
+        breathing_yes.setBackgroundTintList(ContextCompat.getColorStateList(AssesmentActivity.this, R.color.white));
+        breathing_yes.setTextColor(ContextCompat.getColorStateList(AssesmentActivity.this, R.color.black));
+
 
     }
 
@@ -119,7 +128,6 @@ public class AssesmentActivity extends AppCompatActivity implements View.OnClick
             startActivityForResult(cameraIntent, CAMERA_REQUEST);
 
 
-
         }
     }
 
@@ -136,6 +144,7 @@ public class AssesmentActivity extends AppCompatActivity implements View.OnClick
         }
         return flag;
     }
+
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);

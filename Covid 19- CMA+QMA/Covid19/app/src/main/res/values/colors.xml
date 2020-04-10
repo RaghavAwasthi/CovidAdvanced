@@ -13,4 +13,5 @@
     <color name="selectionColor">#ff5862</color>
     <color name="colorSub">#b0afaf</color>
     <color name="colorTex">#585858</color>
+    <color name="colorUserChat">#7DE181</color>
 </resources>

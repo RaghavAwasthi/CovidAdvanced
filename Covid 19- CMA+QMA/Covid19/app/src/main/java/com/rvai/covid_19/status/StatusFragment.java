@@ -16,6 +16,7 @@ import android.widget.Toast;
 import androidx.appcompat.widget.AppCompatTextView;
 import androidx.fragment.app.Fragment;
 
+import com.pdfview.PDFView;
 import com.rvai.covid_19.Constants;
 import com.rvai.covid_19.HeatMapActivity;
 import com.rvai.covid_19.MainFragment;
@@ -25,6 +26,7 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 import java.io.BufferedReader;
+import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
@@ -54,7 +56,7 @@ public class StatusFragment extends MainFragment {
         Button b = view.findViewById(R.id.heatmap_button);
         cured = view.findViewById(R.id.case_cured);
         total = view.findViewById(R.id.case_total);
-        dead = view.findViewById(R.id.case_dead);
+        dead = view.findViewById(R.id.case_dead);;
         preferences = getContext().getSharedPreferences(Constants.APP_PREFERENCE_NAME, Context.MODE_PRIVATE);
         editor = preferences.edit();
         dead.setText(Integer.toString(preferences.getInt(Constants.DEATHCOUNT, 0)));

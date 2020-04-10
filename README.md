@@ -1,14 +1,33 @@
-# Covid19-Android
-## MO APP ScreenShots
-![WhatsApp Image 2020-04-01 at 11 49 35 PM](https://user-images.githubusercontent.com/24982437/78172331-846cb800-7473-11ea-9858-7f2c041c82fb.jpeg)
-![WhatsApp Image 2020-04-02 at 12 01 48 AM](https://user-images.githubusercontent.com/24982437/78173345-3953a480-7475-11ea-84c5-8ff4e5d9cf51.jpeg)
-![WhatsApp Image 2020-04-01 at 11 49 35 PM (2)](https://user-images.githubusercontent.com/24982437/78172535-db728d00-7473-11ea-8d51-a7fa08a92473.jpeg)
-![WhatsApp Image 2020-04-01 at 11 49 35 PM (1)](https://user-images.githubusercontent.com/24982437/78172538-dd3c5080-7473-11ea-92f3-e387eec747ff.jpeg)
+# Covid19-Suraksha
 
-## Quarantined Person APP
-![WhatsApp Image 2020-04-01 at 11 49 32 PM](https://user-images.githubusercontent.com/24982437/78172756-3b693380-7474-11ea-93c1-e16def59db42.jpeg)
-![WhatsApp Image 2020-04-01 at 11 49 31 PM](https://user-images.githubusercontent.com/24982437/78172761-3c9a6080-7474-11ea-9482-9a1522c75b3d.jpeg)
-![WhatsApp Image 2020-04-01 at 11 49 30 PM (1)](https://user-images.githubusercontent.com/24982437/78172768-3efcba80-7474-11ea-9cc9-bb41673b5c87.jpeg)
-![WhatsApp Image 2020-04-01 at 11 49 30 PM](https://user-images.githubusercontent.com/24982437/78172771-40c67e00-7474-11ea-8e2b-1a6634bf4879.jpeg)
-![WhatsApp Image 2020-04-01 at 11 49 25 PM](https://user-images.githubusercontent.com/24982437/78172528-d9a8c980-7473-11ea-8dcf-123424e9292b.jpeg)
-![WhatsApp Image 2020-04-01 at 11 49 25 PM](https://user-images.githubusercontent.com/24982437/78172528-d9a8c980-7473-11ea-8dcf-123424e9292b.jpeg)
+## Description
+Post Covid 19 control, our solution will also take care of & assist the User through one point solution - the Medical Officer MO at the local village, town or city level for the Quarantined Citizen( Q C ) or especially to keep a watch on Suspected Citizens( S C) who were in contact with Covid 19 affected citizens at one point of time ) through :
+Same App installed with the User & the MO.The App henceforth known as CMA ( Citizen Management App ) into our presentation here.
+
+The attributes & advantages of CMA as follows :Also the users who are home quarantined will activate special Quarantine Mode which will be enabled with an Access Code by Medical Officer of that region from his Android App.
+
+ 1. Facial Recognize tool through selfies sent by user to MO at a interval frequency of 1.5 hours based on alarm/ alert message to the MO. In case the GPS is turned Off or the User stops sending selfies to the MO, an alarm plus an alert message will be trigerred into the MOs CMA instantly. The MO will get a log file update based out of Alerts generated in each 4 hours frequency to make things easy for him & appropriate actions taken by his crew or himself for the User( who is offending the laid down guidelines for a QC)
+2. User movement (through Maps API)out of his quarantined place will be tracked by the help of alert message on MO App installed into MO's phone. This important feature is enabled into CMA  through tagging of selfie & GPS on 'On mode'.
+3.Remote monitoring will also be enabled into MO's CMA as a health tracking tool.The user shall be sending 4 inputs on daily basis to MO for the entire quarantined duration - Cough sound ; 4 hourly temperature trend & Breathing ease. The doctor will be able to track all his QCs easily based on log report by sitting at his place ( PHC Primary Health Centre or Community Health Centre - CHC )
+4. So based on above points, through the CMA into MO's Mobile set, the doctor is able to track these 2 actions of his User  - QC's- Quarantined Citizen's movement status + Health Vitals like body temp., Cough status & breathing status
+5. In case of a uncomfortability faced by the user, through push message service ( localization of regional languages )whether online or offline from user will reach MO & MO can accordingly plan his visit to the user's place for a emergency aid & on site check up.
+6. Through Chat bot( Direct chat) facility, user can seek counselling from the MO by keeping back at home into Quarantine .
+7. Required medication can also be taken care of by exclusive message service( push message service) between the user & the MO. The MO can arrange medication at the user's place or directly visit the user, if situations demand so.
+8. All of these details will be visible on the Web Application as well as in the Medical Officer Application
+
+## Software Used
+Android Studio
+VS Code
+
+## Technology Used
+Android
+VueJs
+Firebase
+Google Maps
+AWS
+
+## Future Prospects
+We will train the model from the data collected  through assesment , to predict if a person should go for a Covid-19 check-up or not.​
+Local Item Delivery Feature connecting groceries, medical stores, and all other essential goods seller.​
+To contain the spread & monitor the effected, we wish to develop Reverse tracking system Application and also in the future ​
+We will be adding home delivery of goods as per requirement by locals​

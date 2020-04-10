@@ -30,6 +30,7 @@ import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
+import com.rvai.covid_19.ChatActivity;
 import com.rvai.covid_19.Constants;
 import com.rvai.covid_19.DataStore;
 import com.rvai.covid_19.MainActivity;
@@ -47,7 +48,7 @@ import java.util.Objects;
  */
 public class ProfileFragment extends MainFragment {
     FirebaseAuth firebaseAuth = FirebaseAuth.getInstance();
-    MaterialButton login, signup, quarantine_button, raisealert;
+    MaterialButton login, signup, quarantine_button, raisealert,chatbutton;
     AppCompatImageView imageview;
     AppCompatTextView username, useraddress, userMobile, quarantineDuration;
     SharedPreferences preferences;
@@ -133,6 +134,16 @@ public class ProfileFragment extends MainFragment {
                             Toast.makeText(getContext(), "Alert Sent Successfully", Toast.LENGTH_SHORT).show();
                         }
                     });
+                }
+            });
+
+
+            chatbutton=view.findViewById(R.id.button_chat);
+            chatbutton.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    Intent i=new Intent(getContext(), ChatActivity.class);
+                    startActivity(i);
                 }
             });
 

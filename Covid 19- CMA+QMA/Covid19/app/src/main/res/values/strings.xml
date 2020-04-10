@@ -46,6 +46,8 @@
     <string name="enter_mo_id">Enter MO ID</string>
     <string name="signup">SignUp</string>
     <string name="login">Login</string>
+    <string name="info">Info</string>
+    <string name="send">Send</string>
     <string-array name="units">
         <item>Farenheit</item>
         <item>Celsius</item>

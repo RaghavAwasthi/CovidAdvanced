@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Covid-19</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">हॅलो रिक्त तुकडा</string>
+    <string name="title_Advisory">सल्लागार</string>
+    <string name="title_adversory">प्रतिस्पर्धी</string>
+    <string name="title_home">मुख्यपृष्ठ</string>
+    <string name="title_profile">प्रोफाइल</string>
+    <string name="title_status">स्थिती</string>
+    <string name="title_quarantine">क्वेरीटाईन </string>
+    <string name="title_activity_heat_map">उष्णता नकाशा</string>
+    <string name="question_2">प्रश्न 2</string>
+    <string name="do_you_have_cough">आपल्याकडे काही आहे ?</string>
+    <string name="yes">होय</string>
+    <string name="no">नाही</string>
+    <string name="question_3">प्रश्न 3</string>
+    <string name="do_you_have_breathing_problem">तुम्हाला श्वासोच्छवासाची समस्या आहे का ?</string>
+    <string name="submit">प्रस्तुत करणे</string>
+    <string name="enter_your_address">आपला पत्ता प्रविष्ट करा</string>
+    <string name="enter_your_name">आपले नांव लिहा</string>
+    <string name="click_your_picture">आपल्या चित्रावर क्लिक करा</string>
+    <string name="mark_your_location_on_the_map">नकाशावर आपले स्थान चिन्हांकित करा</string>
+    <string name="next">पुढे</string>
+    <string name="temperature_u2109">तापमा ℉</string>
+    <string name="cough">खोकला</string>
+    <string name="breathing_problem">श्वासोच्छवासाची समस्या</string>
+    <string name="fever">ताप</string>
+    <string name="collected_on">वर गोळा</string>
+    <string name="live_cases">थेट प्रकरणे</string>
+    <string name="view_more"><![CDATA[अधिक प i हा ->]]></string>
+    <string name="advisories">सल्ला</string>
+    <string name="quarantine_mode_enabled_till">क्वेरीटाईन मोड सक्षम केला</string>
+    <string name="chat_support">गप्पा समर्थन</string>
+    <string name="raise_alert">सतर्कता वाढवा</string>
+    <string name="mobile_number">मोबाइल नंबर</string>
+    <string name="address">पत्ता</string>
+    <string name="assesment">मूल्यांकन</string>
+    <string name="you_are_safe">तू सुरक्षित आहेस</string>
+    <string name="take_assesment"><![CDATA[मूल्यांकन घ्या ->]]></string>
+    <string name="previous_assesments">मागील मूल्यांकन</string>
+    <string name="total_cases">एकूण प्रकरणे</string>
+    <string name="total_death">एकूण मृत्यू</string>
+    <string name="total_recovered">एकूण वसूल</string>
+    <string name="quarantine_passcode">क्वेरीटाईन पासकोड</string>
+    <string name="enter_mo_id">इएमओ आयडी प्रविष्ट करा</string>
+    <string name="signup">साइन अप करा</string>
+    <string name="login">लॉगिन</string>
+    <string-array name="units">
+        <item>Farenheit</item>
+        <item>Celsius</item>
+    </string-array>
+</resources>

@@ -12,7 +12,6 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.view.View;
 import android.widget.Toast;
 
 import androidx.annotation.NonNull;
@@ -31,10 +30,10 @@ import com.google.android.gms.location.LocationServices;
 import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
-import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUserMetadata;
 import com.rvai.covid_19.advisory.AdvisoryFragment;
+import com.rvai.covid_19.info.InfoFragment;
 import com.rvai.covid_19.home.HomeFragment;
 import com.rvai.covid_19.profile.ProfileFragment;
 import com.rvai.covid_19.quarantine.QuarantineFragment;
@@ -177,7 +176,6 @@ public class MainActivity extends AppCompatActivity implements BottomNavigationV
                 break;
             case R.id.nav_quarantine:
                 NavItem = MainActivityViewModel.NavigationItem.QUARANTINE;
-
                 break;
             default:
                 Log.e(TAG, "onNavigationItemSelected: Navigation item not resolved", new IllegalArgumentException());

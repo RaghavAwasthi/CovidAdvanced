@@ -39,6 +39,14 @@ public class AssesmentReminderBroadcast extends BroadcastReceiver {
 
         SharedPreferences preferences = context.getSharedPreferences(Constants.APP_PREFERENCE_NAME, Context.MODE_PRIVATE);
         LocalDateTime obj = Utils.getLocalDateTime(Utils.getCurrentDateTime());
+        NotificationCompat.Builder notification2 = new NotificationCompat.Builder(context, Constants.CHANNELID)
+                .setSmallIcon(R.drawable.ic_notification_reminder)
+                .setContentTitle("Water Reminder")
+                .setContentText("Please Drink a glass of Water")
+                .setPriority(NotificationCompat.PRIORITY_HIGH);
+
+        NotificationManagerCompat notificationmanager5 = NotificationManagerCompat.from(context);
+        notificationmanager5.notify(200, notification2.build());
         SharedPreferences.Editor editor = preferences.edit();
         {
             switch (obj.getHour()) {

@@ -10,6 +10,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
+        android:fontFamily="sans-serif-medium"
         android:gravity="center"
         android:text="Covid-19"
         android:textColor="@color/black"
@@ -23,7 +24,7 @@
         android:layout_above="@id/app_title"
         android:layout_marginBottom="20dp"
         android:minHeight="100dp"
-        android:src="@mipmap/ic_launcher" />
+        android:src="@drawable/logo" />
 
     <TextView
 
@@ -32,6 +33,7 @@
         android:layout_alignBottom="@+id/app_title"
         android:layout_centerInParent="true"
         android:layout_marginBottom="-199dp"
+        android:fontFamily="@font/akronim"
         android:gravity="center"
         android:text="Corona will lose"
         android:textColor="@color/black"

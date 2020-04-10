@@ -1,6 +1,16 @@
 <resources>
-    <string name="app_name">Covid-19 MO</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="app_name">MoAPP</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="e_learn">E-Learn</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="contribution">Contribution</string>
+    <string name="patient">Patient</string>
+
+    <string name="patient_chat"> Chat</string>
+    <string name="patient_alerts">GPS INACTIVE</string>
+
+
 </resources>

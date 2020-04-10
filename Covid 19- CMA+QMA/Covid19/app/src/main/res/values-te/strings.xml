@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Covid-19</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">హలో ఖాళీ భాగం</string>
+    <string name="title_Advisory">సలహా</string>
+    <string name="title_adversory">సలహా</string>
+    <string name="title_home">హోమ్</string>
+    <string name="title_profile">ప్రొఫైల్</string>
+    <string name="title_status">స్థితి</string>
+    <string name="title_quarantine">దిగ్బంధం</string>
+    <string name="title_activity_heat_map">మ్యాప్</string>
+    <string name="question_2">ప్రశ్న-2</string>
+    <string name="do_you_have_cough">మీకు దగ్గు ఉందా ?</string>
+    <string name="yes">అవును</string>
+    <string name="no">ఏ</string>
+    <string name="question_3">ప్రశ్న-3</string>
+    <string name="do_you_have_breathing_problem">మీకు శ్వాస సమస్య ఉందా ?</string>
+    <string name="submit">లొంగు</string>
+    <string name="enter_your_address">మీ చిరునామాను నమోదు చేయండి</string>
+    <string name="enter_your_name">మీ పేరు రాయుము, మీ పేరు రాయండి</string>
+    <string name="click_your_picture">మీ చిత్రాన్ని క్లిక్ చేయండి</string>
+    <string name="mark_your_location_on_the_map">మ్యాప్‌లో  మీ  స్థానాన్ని  గుర్తించండి</string>
+    <string name="next">తరువాత</string>
+    <string name="temperature_u2109">ఉష్ణోగ్రత ℉</string>
+    <string name="cough">దగ్గు</string>
+    <string name="breathing_problem">బ్రెడ్టింగ్ సమస్య</string>
+    <string name="fever">జ్వరం</string>
+    <string name="collected_on">సేకరించబడింది</string>
+    <string name="live_cases">ప్రత్యక్ష కేసులు</string>
+    <string name="view_more"><![CDATA[ మరిన్ని చూడండి ->]]></string>
+    <string name="advisories">సలహాదారులు</string>
+    <string name="quarantine_mode_enabled_till">దిగ్బంధం  మోడ్  వరకు  ప్రారంభించబడింది</string>
+    <string name="chat_support">చాట్ మద్దతు</string>
+    <string name="raise_alert">హెచ్చరిక  పెంచండి</string>
+    <string name="mobile_number">మొబైల్  సంఖ్య</string>
+    <string name="address">చిరునామా </string>
+    <string name="assesment">అంచనా </string>
+    <string name="you_are_safe">మీరు సురక్షితం </string>
+    <string name="take_assesment"><![CDATA[ మదింపులను  తీసుకోండి ->]]></string>
+    <string name="previous_assesments">మునుపటి అంచనాలు</string>
+    <string name="total_cases">మొత్తం  కేసులు</string>
+    <string name="total_death">మొత్తం  మరణాలు</string>
+    <string name="total_recovered">మొత్తం  కోలుకుంది</string>
+    <string name="quarantine_passcode">దిగ్బంధం  పాస్కోడ్ </string>
+    <string name="enter_mo_id">మో ఐడిని నమోదు చేయండి </string>
+    <string name="signup">చేరడం</string>
+    <string name="login">ప్రవేశించండి</string>
+    <string-array name="units">
+        <item>Farenheit</item>
+        <item>Celsius</item>
+    </string-array>
+</resources>

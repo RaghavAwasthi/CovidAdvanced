@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Covid-19</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">हैलो खाली टुकड़ा</string>
+    <string name="title_Advisory">एडवाइजरी</string>
+    <string name="title_adversory">एडवाइजरी</string>
+    <string name="title_home">होम</string>
+    <string name="title_profile">प्रोफ़ाइल</string>
+    <string name="title_status">स्टेटस</string>
+    <string name="title_quarantine">क्वारांटाइन</string>
+    <string name="title_activity_heat_map">मैप</string>
+    <string name="question_2">क्वेशचन-2</string>
+    <string name="do_you_have_cough">दू यु हैव कफ ?</string>
+    <string name="yes">येस</string>
+    <string name="no">नो</string>
+    <string name="question_3">क्वेशचन-3</string>
+    <string name="do_you_have_breathing_problem">दू यु हैव ब्रीदिंग प्रॉब्लम ?</string>
+    <string name="submit">सबमिट</string>
+    <string name="enter_your_address">इंटर यौर ऐड्रेस</string>
+    <string name="enter_your_name">इंटर यौर नेम</string>
+    <string name="click_your_picture">क्लिक यौर पिक्चर</string>
+    <string name="mark_your_location_on_the_map">मार्क यौर लोकेशन ओन दा मैप </string>
+    <string name="next">नेक्स्ट</string>
+    <string name="temperature_u2109">टेंपरेचर ℉</string>
+    <string name="cough">कफ</string>
+    <string name="breathing_problem">ब्रीदिंग प्रॉब्लम</string>
+    <string name="fever">फीवर</string>
+    <string name="collected_on">कलेक्टेड ओन</string>
+    <string name="live_cases">लाइव केसेज</string>
+    <string name="view_more"><![CDATA[ व्यु मोर ->]]></string>
+    <string name="advisories">एडवाइजरी</string>
+    <string name="quarantine_mode_enabled_till">क्वारांटाइन मोड  एनाबलड तिल</string>
+    <string name="chat_support">चैट सपोर्ट</string>
+    <string name="raise_alert">रेज अलर्ट</string>
+    <string name="mobile_number">मोबाइल नंबर</string>
+    <string name="address">ऐड्रेस</string>
+    <string name="assesment">असेसमेंट</string>
+    <string name="you_are_safe">यूं आर सेफ</string>
+    <string name="take_assesment"><![CDATA[ टेक असेसमेंट ->]]></string>
+    <string name="previous_assesments">प्रीवियस असेसमेंट</string>
+    <string name="total_cases">टोटल केसेज</string>
+    <string name="total_death">टोटल डेथ</string>
+    <string name="total_recovered">टोटल रिकवरड</string>
+    <string name="quarantine_passcode">क्वारांटाइन पासकोड</string>
+    <string name="enter_mo_id">इंटर मो: इड</string>
+    <string name="signup">साइन-अप</string>
+    <string name="login">लोग-इन</string>
+    <string-array name="units">
+        <item>Farenheit</item>
+        <item>Celsius</item>
+    </string-array>
+</resources>

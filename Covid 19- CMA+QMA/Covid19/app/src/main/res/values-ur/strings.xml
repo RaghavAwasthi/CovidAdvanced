@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Covid-19</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">    ہیلو خالی ٹکڑا </string>
+    <string name="title_Advisory">    ایڈوائزری</string>
+    <string name="title_adversory">    ایڈوائزری</string>
+    <string name="title_home">    گھر</string>
+    <string name="title_profile">    پروفائل</string>
+    <string name="title_status">    حالت</string>
+    <string name="title_quarantine">    الگ تھلگ</string>
+    <string name="title_activity_heat_map">    نقشہ</string>
+    <string name="question_2">    سوال-2</string>
+    <string name="do_you_have_cough">    کیا آپ کو کھانسی ہے</string>
+    <string name="yes">    جی ہاں</string>
+    <string name="no">    نہیں</string>
+    <string name="question_3">    سوال-3</string>
+    <string name="do_you_have_breathing_problem">   کیا آپ کو سانس لینے میں تکلیف ہے؟</string>
+    <string name="submit">    جمع کرائیں</string>
+    <string name="enter_your_address">    اپنا پتہ درج کریں</string>
+    <string name="enter_your_name">    اپنا نام درج کریں</string>
+    <string name="click_your_picture">    اپنی تصویر پر کلک کریں</string>
+    <string name="mark_your_location_on_the_map">   نقشے پر اپنے مقام کو نشان زد کریں </string>
+    <string name="next">    اگلے</string>
+    <string name="temperature_u2109">    درجہ حرارت (F)</string>
+    <string name="cough">    کھانسی </string>
+    <string name="breathing_problem">      سانس لینے میں دشواری</string>
+    <string name="fever">      بخار</string>
+    <string name="collected_on">      پر اکٹھا کیا</string>
+    <string name="live_cases">      براہ راست مقدمات</string>
+    <string name="view_more"><![CDATA[           مزید دیکھیں ->]]></string>
+    <string name="advisories">      مشورے</string>
+    <string name="quarantine_mode_enabled_till">       سنگروتھان موڈ تک فعال ہے</string>
+    <string name="chat_support">        چیٹ سپورٹ</string>
+    <string name="raise_alert">        انتباہ بلند کریں </string>
+    <string name="mobile_number">        موبائل نمبر</string>
+    <string name="address">         پتہ</string>
+    <string name="assesment">      تشخیص کے </string>
+    <string name="you_are_safe">        تم محفوظ ہو</string>
+    <string name="take_assesment"><![CDATA[         تشخیص کریں ->]]></string>
+    <string name="previous_assesments">        پچھلے تخمینے</string>
+    <string name="total_cases">        کل مقدمات</string>
+    <string name="total_death">       کل موت</string>
+    <string name="total_recovered">       کل بازیافت</string>
+    <string name="quarantine_passcode">       سنگرودھ پاسکوڈ</string>
+    <string name="enter_mo_id">       موبائل نمبر داخل کریں</string>
+    <string name="signup">        سائن اپ</string>
+    <string name="login">       لاگ ان کریں</string>
+    <string-array name="units">
+        <item>Farenheit</item>
+        <item>Celsius</item>
+    </string-array>
+</resources>

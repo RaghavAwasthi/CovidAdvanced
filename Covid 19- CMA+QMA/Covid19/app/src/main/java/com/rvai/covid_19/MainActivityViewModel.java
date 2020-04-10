@@ -6,6 +6,7 @@ import androidx.lifecycle.ViewModel;
 
 
 public class MainActivityViewModel extends ViewModel {
+
     private MutableLiveData<NavigationItem> mSelectedNavItem = new MutableLiveData<>();
 
     LiveData<NavigationItem> getSelectedNavItem() {
@@ -21,6 +22,9 @@ public class MainActivityViewModel extends ViewModel {
         ADVISORIES,
         PROFILE,
         STATUS,
-        QUARANTINE
+        QUARANTINE,
+
+
+
     }
 }

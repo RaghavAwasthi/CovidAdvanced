@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Covid-19</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">ಹಲೋ ಖಾಲಿ ತುಣುಕು</string>
+    <string name="title_Advisory">ಸಲಹಾ</string>
+    <string name="title_adversory">ಸಲಹಾ</string>
+    <string name="title_home">ಮನೆ</string>
+    <string name="title_profile">ಪ್ರೊಫೈಲ್</string>
+    <string name="title_status">ಸ್ಥಿತಿ</string>
+    <string name="title_quarantine">ದಿಗ್ಬಂಧನ</string>
+    <string name="title_activity_heat_map">ನಕ್ಷೆ</string>
+    <string name="question_2">ಪ್ರಶ್ನೆ-2</string>
+    <string name="do_you_have_cough">ನಿಮಗೆ ಕೆಮ್ಮು ಇದೆಯೇ ?</string>
+    <string name="yes">ಹೌದು</string>
+    <string name="no">ಇಲ್ಲ</string>
+    <string name="question_3">ಪ್ರಶ್ನೆ-3</string>
+    <string name="do_you_have_breathing_problem">ನಿಮಗೆ ಉಸಿರಾಟದ ಸಮಸ್ಯೆ ಇದೆಯೇ ?</string>
+    <string name="submit">ಸಲ್ಲಿಸು</string>
+    <string name="enter_your_address">ನಿಮ್ಮ ವಿಳಾಸವನ್ನು ನಮೂದಿಸಿ</string>
+    <string name="enter_your_name">ನಿಮ್ಮ ಹೆಸರನ್ನು ನಮೂದಿಸಿ</string>
+    <string name="click_your_picture">ನಿಮ್ಮ ಚಿತ್ರವನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ</string>
+    <string name="mark_your_location_on_the_map">ನಕ್ಷೆಯಲ್ಲಿ ನಿಮ್ಮ ಸ್ಥಳವನ್ನು ಗುರುತಿಸಿ </string>
+    <string name="next">ಸಮೀಪ</string>
+    <string name="temperature_u2109">ತಾಪಮಾನ℉</string>
+    <string name="cough">ಕೆಮ್ಮು</string>
+    <string name="breathing_problem">ಉಸಿರಾಟದ ಸಮಸ್ಯೆ</string>
+    <string name="fever">ಜ್ವರ</string>
+    <string name="collected_on">ಸಂಗ್ರಹಿಸಲಾಗಿದೆ</string>
+    <string name="live_cases">ಲೈವ್ ಪ್ರಕರಣಗಳು</string>
+    <string name="view_more"><![CDATA[ ಇನ್ನಷ್ಟು ವೀಕ್ಷಿಸಿ ->]]></string>
+    <string name="advisories">ಸಲಹಾಗಳು</string>
+    <string name="quarantine_mode_enabled_till">ತನಕ ಸಂಪರ್ಕತಡೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ</string>
+    <string name="chat_support">ಚಾಟ್ ಬೆಂಬಲ </string>
+    <string name="raise_alert">ಅಲೆರಿ ಹೆಚ್ಚಿಸಿ</string>
+    <string name="mobile_number">ಮೊಬೈಲ್ ನಂಬರ</string>
+    <string name="address">ವಿಳಾಸ</string>
+    <string name="assesment">ಮೌಲ್ಯಮಾಪನ</string>
+    <string name="you_are_safe">ನೀವು ಸುರಕ್ಷಿತ</string>
+    <string name="take_assesment"><![CDATA[ ತೆಗೆದುಕೊಳ್ಳಿ  ಮೌಲ್ಯಮಾಪನ ->]]></string>
+    <string name="previous_assesments">ಹಿಂದಿನ ಮೌಲ್ಯಮಾಪನಗಳು</string>
+    <string name="total_cases">ಒಟ್ಟು ಪ್ರಕರಣಗಳು</string>
+    <string name="total_death">ಒಟ್ಟು ಸಾವು</string>
+    <string name="total_recovered">ಒಟ್ಟು ಮರುಪಡೆಯಲಾಗಿದೆ</string>
+    <string name="quarantine_passcode">ಸಂಪರ್ಕತಡೆಯನ್ನು ಪಾಸ್ಕೋಡ್</string>
+    <string name="enter_mo_id">ಮೊಬೈಲ್ ಐಡಿ ನಮೂದಿಸಿ</string>
+    <string name="signup">ಸೈನ್ ಅಪ್</string>
+    <string name="login">ಲಾಗಿನ್</string>
+    <string-array name="units">
+        <item>Farenheit</item>
+        <item>Celsius</item>
+    </string-array>
+</resources>

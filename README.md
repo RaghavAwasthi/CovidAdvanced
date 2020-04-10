@@ -16,18 +16,18 @@ The attributes & advantages of CMA as follows :Also the users who are home quara
 8. All of these details will be visible on the Web Application as well as in the Medical Officer Application
 
 ## Software Used
-Android Studio
-VS Code
+- Android Studio
+- VS Code
 
 ## Technology Used
-Android
-VueJs
-Firebase
-Google Maps
-AWS
+- Android
+- VueJs
+- Firebase
+- Google Maps
+- AWS
 
 ## Future Prospects
-We will train the model from the data collected  through assesment , to predict if a person should go for a Covid-19 check-up or not.​
-Local Item Delivery Feature connecting groceries, medical stores, and all other essential goods seller.​
-To contain the spread & monitor the effected, we wish to develop Reverse tracking system Application and also in the future ​
-We will be adding home delivery of goods as per requirement by locals​
+- We will train the model from the data collected  through assesment , to predict if a person should go for a Covid-19 check-up or not.​
+- Local Item Delivery Feature connecting groceries, medical stores, and all other essential goods seller.​
+- To contain the spread & monitor the effected, we wish to develop Reverse tracking system Application and also in the future ​
+- We will be adding home delivery of goods as per requirement by locals​

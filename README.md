@@ -33,14 +33,14 @@ The attributes & advantages of CMA as follows :Also the users who are home quara
 - We will be adding home delivery of goods as per requirement by locals​
 
 ## Link to Web App
-http://covid-server.s3-website.ap-south-1.amazonaws.com/dashboard/advisory
-Trial ID
-CHC:
-     aashishpeepra.ap@gmail.com
-     lol1234
-PHC:
-    dummy22@gmail.com
-    lol1234
+- http://covid-server.s3-website.ap-south-1.amazonaws.com/dashboard/advisory
+- Trial ID
+- CHC:
+-     aashishpeepra.ap@gmail.com
+-     lol1234
+- PHC:
+-    dummy22@gmail.com
+-    lol1234
     
     
 ## Flow Diagram
